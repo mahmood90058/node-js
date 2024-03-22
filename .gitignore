@@ -1,0 +1,4 @@
+# gitignore file me jisko bhi include nhi krna chahte hai wo rahta hai
+# baki sab rahegi siway nodemodules ke
+
+/node_modules
